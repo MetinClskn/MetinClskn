@@ -1,6 +1,6 @@
 # Hi, I'm Metin Çalışkan
 
-#### I'm a 19 years old freshman at Bilkent University. I'm studying computer science and I am willing to improve myself. 
+#### I'm a 19-year-old freshman at Bilkent University. I'm studying computer science and I am willing to improve myself. 
 
 
 ###                :speech_balloon:Get in touch:
