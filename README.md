@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Metin Çalışkan
+
+#### I'm a 19 years old freshman at Bilkent University. I'm studying computer science and I am willing to improve myself. 
+
+
+###                :speech_balloon:Get in touch:
+-Instagram : https://instagram.com/metinclskn
+
+-Mail : metincaliskan43@gmail.com
+      
+
 
 <!--
 **MetinClskn/MetinClskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
